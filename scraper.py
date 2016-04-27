@@ -5,7 +5,7 @@ import csv
 #http://stats.nba.com/stats/draftcombinedrillresults?LeagueID=00&SeasonYear=2015-16 200 GET stats.nba.com   /stats/draftcombinedrillresults?LeagueID=00&SeasonYear=2015-16
 
 def get_anthro_data():
-    for i in range(10, 11):
+    for i in range(0, 12):
         start = str(i)
         end = str(i + 1)
 
@@ -15,12 +15,13 @@ def get_anthro_data():
         if i + 1 < 10:
             end = "0" + end
 
+        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0'}
         url = 'http://stats.nba.com/stats/draftcombineplayeranthro?LeagueID=00&SeasonYear=20{0}-{1}'.format(start, end)
         print(url)
-        r = requests.get(url)
+        r = requests.get(url, headers=headers)
         # print(r.json()['resultSets'][0]['rowSet'][0])
 
-        with open('data/combines/anthro_20{0}.csv'.format(end), 'wb') as csvfile:
+        with open('data/combines/anthro_20{0}.csv'.format(start), 'wb') as csvfile:
             w = csv.writer(csvfile, delimiter=',',
                                     quotechar='|', quoting=csv.QUOTE_MINIMAL)
             w.writerow(r.json()['resultSets'][0]['headers'])
@@ -28,7 +29,7 @@ def get_anthro_data():
                 w.writerow(row)
 
 def get_drills_data():
-    for i in range(3, 11):
+    for i in range(0, 12):
         start = str(i)
         end = str(i + 1)
 
@@ -45,7 +46,7 @@ def get_drills_data():
         print(r.status_code)
         # print(r.json()['resultSets'][0]['rowSet'][0])
 
-        with open('data/combines/drills_20{0}.csv'.format(end), 'wb') as csvfile:
+        with open('data/combines/drills_20{0}.csv'.format(start), 'wb') as csvfile:
             w = csv.writer(csvfile, delimiter=',',
                                     quotechar='|', quoting=csv.QUOTE_MINIMAL)
             w.writerow(r.json()['resultSets'][0]['headers'])
