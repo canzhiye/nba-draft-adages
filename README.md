@@ -5,3 +5,4 @@
 - 4 year college players have less upside, less potential
 - above average length translates to above average defense
 - the Spurs generally do well in the draft
+- undersized PGs something something
