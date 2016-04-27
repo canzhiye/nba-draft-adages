@@ -29,8 +29,6 @@ Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48
 28,28,LAC,C.J. Wilcox,University of Washington,2,44,268,111,19,18,.404,.381,.786,6.1,2.5,0.4,0.4,0.3,.047,-3.8,-0.1
 29,29,OKC,Josh Huestis,Stanford University,1,5,55,14,10,0,.417,.667,.000,11.0,2.8,2.0,0.0,0.0,.010,-7.4,-0.1
 30,30,SAS,Kyle Anderson,University of California Los Angeles,2,111,1603,424,316,151,.440,.313,.732,14.4,3.8,2.8,1.4,3.8,.113,0.8,1.1
-,,,Round 2,Round 2,,Totals,Totals,Totals,Totals,Totals,Shooting,Shooting,Shooting,Per Game,Per Game,Per Game,Per Game,Advanced,Advanced,Advanced,Advanced
-Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48,BPM,VORP
 31,31,MIL,Damien Inglis,,1,20,156,36,31,10,.351,.231,.875,7.8,1.8,1.6,0.5,-0.1,-.024,-6.4,-0.2
 32,32,PHI,K.J. McDaniels,Clemson University,2,99,1587,576,242,82,.397,.286,.761,16.0,5.8,2.4,0.8,0.8,.024,-3.0,-0.4
 33,33,CLE,Joe Harris,University of Virginia,2,56,508,139,44,28,.395,.364,.600,9.1,2.5,0.8,0.5,0.2,.017,-4.6,-0.3

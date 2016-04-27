@@ -28,8 +28,6 @@ Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48
 27,27,IND,Primoz Brezec,,8,342,6192,2452,1327,179,.498,.167,.701,18.1,7.2,3.9,0.5,10.8,.084,-2.5,-0.8
 28,28,POR,Erick Barkley,St. John's University,2,27,266,77,21,40,.356,.267,.900,9.9,2.9,0.8,1.5,0.2,.027,-3.8,-0.1
 29,29,LAL,Mark Madsen,Stanford University,9,453,5335,975,1157,181,.457,.063,.527,11.8,2.2,2.6,0.4,8.2,.074,-2.2,-0.2
-,,,Round 2,Round 2,,Totals,Totals,Totals,Totals,Totals,Shooting,Shooting,Shooting,Per Game,Per Game,Per Game,Per Game,Advanced,Advanced,Advanced,Advanced
-Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48,BPM,VORP
 30,30,LAC,Marko Jaric,,7,447,11246,3193,1200,1600,.404,.344,.730,25.2,7.1,2.7,3.6,12.1,.052,-0.5,4.3
 31,31,DAL,Dan Langhi,Vanderbilt University,4,133,1253,393,199,39,.391,.289,.613,9.4,3.0,1.5,0.3,0.3,.012,-6.8,-1.5
 32,32,CHI,A.J. Guyton,Indiana University,3,80,1246,442,80,147,.377,.378,.822,15.6,5.5,1.0,1.8,0.3,.010,-5.4,-1.1

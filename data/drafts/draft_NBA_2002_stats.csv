@@ -27,8 +27,6 @@ Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48
 26,26,SAS,John Salmons,University of Miami,13,895,23672,8292,2603,2183,.431,.366,.799,26.4,9.3,2.9,2.4,33.9,.069,-1.0,5.8
 27,27,LAL,Chris Jefferies,California State University Fresno,2,72,861,281,88,29,.383,.365,.667,12.0,3.9,1.2,0.4,-0.5,-.030,-6.3,-0.9
 28,28,SAC,Dan Dickau,Gonzaga University,6,300,4617,1745,405,752,.401,.341,.831,15.4,5.8,1.4,2.5,5.9,.061,-2.3,-0.4
-,,,Round 2,Round 2,,Totals,Totals,Totals,Totals,Totals,Shooting,Shooting,Shooting,Per Game,Per Game,Per Game,Per Game,Advanced,Advanced,Advanced,Advanced
-Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%,FT%,MP,PTS,TRB,AST,WS,WS/48,BPM,VORP
 29,29,GSW,Steve Logan,University of Cincinnati,,,,,,,,,,,,,,,,,
 30,30,CHI,Roger Mason,University of Virginia,10,518,9147,3289,897,677,.408,.383,.866,17.7,6.3,1.7,1.3,13.0,.068,-1.8,0.5
 31,31,MEM,Robert Archibald,University of Illinois at Urbana-Champaign,2,44,328,51,69,16,.283,,.429,7.5,1.2,1.6,0.4,0.0,-.004,-5.0,-0.2
